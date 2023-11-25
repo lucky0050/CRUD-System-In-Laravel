@@ -1,4 +1,4 @@
-# larave-crud
+# CRUD System In Laravel
 
 Dashboard : 
 ![Dashboard](https://github.com/lucky0050/larave-crud/assets/130566777/982d9449-0225-4347-bc13-71b473d46c94)
